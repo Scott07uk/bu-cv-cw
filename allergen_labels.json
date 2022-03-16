@@ -1,0 +1,14 @@
+[
+  {
+    "file": "Labelled/0001.jpg",
+    "allergens": [
+      {
+        "name": "BARLEY",
+        "x":1500,
+        "y":1074,
+        "width": 166,
+        "height": 85
+      }
+    ]
+  }
+]
