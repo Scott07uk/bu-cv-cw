@@ -10,5 +10,36 @@
         "height": 85
       }
     ]
+  },
+  {
+    "file": "Labelled/0002.jpg",
+    "allergens": [
+      {
+        "name": "WHEAT",
+        "x":2128,
+        "y":1918,
+        "width": 210,
+        "height": 80
+      }
+    ]
+  },
+  {
+    "file": "Labelled/0003.jpg",
+    "allergens": [
+      {
+        "name": "SOYA",
+        "x":1906,
+        "y":1822,
+        "width": 84,
+        "height": 77
+      },
+      {
+        "name": "BARLEY",
+        "x":1375,
+        "y":1235,
+        "width": 140,
+        "height": 76
+      }
+    ]
   }
 ]
