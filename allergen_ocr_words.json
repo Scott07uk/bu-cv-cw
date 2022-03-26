@@ -3,6 +3,7 @@
   "CELERY": ["CELERY"],
   "BARLEY": ["BARLEY"],
   "EGG": ["EGG", "EGGS"],
+  "FISH": ["FISH"],
   "HAZELNUTS": ["HAZELNUTS", "HAZELNUT"],
   "LACTOSE": ["LACTOSE"],
   "LUPIN": ["LUPIN"],
@@ -12,7 +13,7 @@
   "NUTS": ["NUTS"],
   "OATS": ["OATS"],
   "PEANUTS": ["PEANUTS"],
-  "SOYA": ["SOYA"],
-  "WHEAT": ["WHEAT"],
+  "SOYA": ["SOYA", "(SOYA", "(SOYA)"],
+  "WHEAT": ["WHEAT", "WHEATFLOUR"],
   "WHEY": ["WHEY"]
 }
