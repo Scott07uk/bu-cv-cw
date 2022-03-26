@@ -13,7 +13,7 @@
   "NUTS": ["NUTS"],
   "OATS": ["OATS"],
   "PEANUTS": ["PEANUTS"],
-  "SOYA": ["SOYA", "(SOYA", "(SOYA)"],
+  "SOYA": ["SOYA", "(SOYA", "(SOYA)", "SOY"],
   "WHEAT": ["WHEAT", "WHEATFLOUR"],
   "WHEY": ["WHEY"]
 }
