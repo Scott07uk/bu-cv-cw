@@ -3,12 +3,16 @@
   "CELERY": ["CELERY"],
   "BARLEY": ["BARLEY"],
   "EGG": ["EGG", "EGGS"],
-  "HAZELNUTS": ["HAZELNUTS"],
+  "HAZELNUTS": ["HAZELNUTS", "HAZELNUT"],
   "LACTOSE": ["LACTOSE"],
+  "LUPIN": ["LUPIN"],
+  "METABISULPHITE": ["METABISULPHITE"], 
   "MILK": ["MILK", "(MILK)"],
   "MUSTARD": ["MUSTARD"],
+  "NUTS": ["NUTS"],
   "OATS": ["OATS"],
   "PEANUTS": ["PEANUTS"],
   "SOYA": ["SOYA"],
-  "WHEAT": ["WHEAT"]
+  "WHEAT": ["WHEAT"],
+  "WHEY": ["WHEY"]
 }
