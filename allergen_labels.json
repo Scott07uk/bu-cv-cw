@@ -4,8 +4,8 @@
     "allergens": [
       {
         "name": "BARLEY",
-        "x":1500,
-        "y":1074,
+        "x": 1500,
+        "y": 1074,
         "width": 166,
         "height": 85
       }
@@ -16,8 +16,8 @@
     "allergens": [
       {
         "name": "WHEAT",
-        "x":1419,
-        "y":658,
+        "x": 1419,
+        "y": 658,
         "width": 233,
         "height": 88
       }
@@ -28,27 +28,27 @@
     "allergens": [
       {
         "name": "SOYA",
-        "x":1805,
-        "y":1821,
+        "x": 1805,
+        "y": 1821,
         "width": 112,
         "height": 81
       },
       {
         "name": "BARLEY",
-        "x":1225,
-        "y":1911,
+        "x": 1225,
+        "y": 1911,
         "width": 155,
         "height": 77
       }
     ]
   },
-   {
+  {
     "file": "Labelled/0034.jpg",
     "allergens": [
       {
         "name": "PEANUTS",
-        "x":412,
-        "y":665,
+        "x": 412,
+        "y": 665,
         "width": 155,
         "height": 42
       }
@@ -59,8 +59,8 @@
     "allergens": [
       {
         "name": "WHEAT",
-        "x":1289,
-        "y":1187,
+        "x": 1289,
+        "y": 1187,
         "width": 308,
         "height": 72
       }
@@ -71,10 +71,216 @@
     "allergens": [
       {
         "name": "OATS",
-        "x":755,
-        "y":2659,
+        "x": 755,
+        "y": 2659,
         "width": 175,
         "height": 60
+      }
+    ]
+  },
+  {
+    "file": "Labelled/0053.jpg",
+    "allergens": [
+      {
+        "name": "WALNUTS",
+        "x": 253,
+        "y": 1285,
+        "width": 268,
+        "height": 88
+      }
+    ]
+  },
+  {
+    "file": "Labelled/0055.jpg",
+    "allergens": [
+      {
+        "name": "SOYA",
+        "x": 755,
+        "y": 1383,
+        "width": 108,
+        "height": 62
+      }
+    ]
+  },
+  {
+    "file": "Labelled/0058.jpeg",
+    "allergens": [
+      {
+        "name": "LUPIN",
+        "x": 1777,
+        "y": 1445,
+        "width": 168,
+        "height": 92
+      }
+    ]
+  },
+  {
+    "file": "Labelled/0062.jpg",
+    "allergens": [
+      {
+        "name": "SOYA",
+        "x": 1533,
+        "y": 1661,
+        "width": 128,
+        "height": 74
+      }
+    ]
+  },
+  {
+    "file": "Labelled/0065.jpeg",
+    "allergens": [
+      {
+        "name": "CELERY",
+        "x": 1305,
+        "y": 2443,
+        "width": 168,
+        "height": 68
+      }
+    ]
+  },
+  {
+    "file": "Labelled/0066.jpeg",
+    "allergens": [
+      {
+        "name": "SOYA",
+        "x": 1945,
+        "y": 1337,
+        "width": 128,
+        "height": 72
+      },
+      {
+        "name": "BARLEY",
+        "x": 1690,
+        "y": 1429,
+        "width": 160,
+        "height": 60
+      }
+    ]
+  },
+  {
+    "file": "Labelled/0070.jpeg",
+    "allergens": [
+      {
+        "name": "EGG",
+        "x": 485,
+        "y": 589,
+        "width": 120,
+        "height": 100
+      },
+      {
+        "name": "BARLEY",
+        "x": 1775,
+        "y": 1054,
+        "width": 175,
+        "height": 65
+      }
+    ]
+  },
+  {
+    "file": "Labelled/0076.jpeg",
+    "allergens": [
+      {
+        "name": "WALNUTS",
+        "x": 1269,
+        "y": 1417,
+        "width": 260,
+        "height": 80
+      }
+    ]
+  },
+  {
+    "file": "Labelled/0080.jpeg",
+    "allergens": [
+      {
+        "name": "LUPIN",
+        "x": 297,
+        "y": 1209,
+        "width": 188,
+        "height": 80
+      }
+    ]
+  },
+  {
+    "file": "Labelled/0082.jpeg",
+    "allergens": [
+      {
+        "name": "METABISULPHITE",
+        "x": 673,
+        "y": 2025,
+        "width": 500,
+        "height": 64
+      }
+    ]
+  },
+  {
+    "file": "Labelled/0083.jpeg",
+    "allergens": [
+      {
+        "name": "OATS",
+        "x": 453,
+        "y": 2742,
+        "width": 156,
+        "height": 68
+      }
+    ]
+  },
+  {
+    "file": "Labelled/0086.jpeg",
+    "allergens": [
+      {
+        "name": "WALNUTS",
+        "x": 896,
+        "y": 2263,
+        "width": 130,
+        "height": 45
+      }
+    ]
+  },
+  {
+    "file": "Labelled/0092.jpeg",
+    "allergens": [
+      {
+        "name": "LUPIN",
+        "x": 645,
+        "y": 1713,
+        "width": 220,
+        "height": 108
+      }
+    ]
+  },
+  {
+    "file": "Labelled/0093.jpeg",
+    "allergens": [
+      {
+        "name": "LACTOSE",
+        "x": 1249,
+        "y": 1829,
+        "width": 240,
+        "height": 76
+      }
+    ]
+  },
+  {
+    "file": "Labelled/0093.jpeg",
+    "allergens": [
+      {
+        "name": "LACTOSE",
+        "x": 1249,
+        "y": 1829,
+        "width": 240,
+        "height": 76
+      }
+    ]
+  },
+  {
+    "file": "Labelled/0096.jpeg",
+    "allergens": [
+      {
+        "name": "WALNUTS",
+        "x": 895,
+        "y": 2257,
+        "width": 130,
+        "height": 50
       }
     ]
   }
